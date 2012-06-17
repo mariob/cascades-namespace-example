@@ -1,0 +1,5 @@
+arm/Makefile*
+arm/o.*
+x86/Makefile*
+x86/o*
+.preview*
