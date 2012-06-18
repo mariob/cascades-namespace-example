@@ -92,9 +92,6 @@
     <!-- <splashscreen></splashscreen> -->
     
     <!-- Locale support -->
-    <asset path="translations" dest="qm">
-        <include name="*.qm"/>
-    </asset>
     
     <!-- Request permission to execute native code.  Required for native applications. -->
     <action system="true">run_native</action>
